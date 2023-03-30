@@ -1,2 +1,2 @@
 # JustaBunchofPeople
-Twitter like Web Application (Learning Java &amp; Next.js with Typescript)
+Twitter like Web Application (Learning Java Spring Boot) 
